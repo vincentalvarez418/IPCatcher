@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import './CatImage.css'
+import './Catimage.css'
 
 function CatImage() {
   const [imgUrl, setImgUrl] = useState(null)
