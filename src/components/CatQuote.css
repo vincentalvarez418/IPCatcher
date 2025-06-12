@@ -1,0 +1,25 @@
+.cat-quote {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  text-align: center;
+  font-style: italic;
+  max-width: 300px;
+  transition: color 0.3s ease;
+}
+
+.common {
+  color: #aaa;
+}
+
+.uncommon {
+  color: #55ccff;
+}
+
+.rare {
+  color: #9b59b6;
+}
+
+.legendary {
+  color: gold;
+  text-shadow: 0 0 5px gold;
+}
